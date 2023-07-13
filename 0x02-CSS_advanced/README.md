@@ -1,3 +1,3 @@
 ### Frontend
-Readme file for the directory *0x01-developer_tools*.  
-Highlight: Developer Tools
+Readme file for the directory *0x02-CSS_advanced*.  
+Highlight: Advanced CSS
