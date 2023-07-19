@@ -402,7 +402,6 @@ ul.row {
 
 .col-1-2 {
   width: calc((100% / 2) - 2rem);
-}
 
 
   [class^='col-'] {
