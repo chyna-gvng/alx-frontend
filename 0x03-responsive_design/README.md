@@ -1,3 +1,3 @@
 ### Frontend
-Readme file for the directory *0x02-CSS_advanced*.  
-Highlight: Advanced CSS
+Readme file for the directory *0x03-responsive_design*.  
+Highlight: Responsive Design
